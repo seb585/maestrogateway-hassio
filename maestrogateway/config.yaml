@@ -6,9 +6,6 @@ url: https://github.com/hassio-addons/addon-example
 image: ghcr.io/domhaas/maestrogateway-hassio
 init: false
 arch:
-  - amd64
-  - aarch64
-  - armhf
   - armv7
 services:
   - mqtt:need
